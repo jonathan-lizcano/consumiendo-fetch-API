@@ -1,6 +1,6 @@
 #  haciendo peticiones a la Api de Rick and Morty
 
-este es el proyecto  esta desarrollado con webpack
+este proyecto esta desarrollado con webpack
 
 ### notas:
 recuerden recontruir los modulos de node
