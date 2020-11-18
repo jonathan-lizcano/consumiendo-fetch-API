@@ -18,7 +18,8 @@ const crearHtml = () =>{
             
         </div>
     </header>
-    <hr>
+    <br>
+    
 
     <button class="btn btn-primary">Traer Personaje</button>
     <br>

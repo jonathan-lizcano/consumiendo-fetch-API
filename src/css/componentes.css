@@ -31,3 +31,10 @@ header .cabezera .imagen1{
     left: 30%;
     padding-bottom: 30px;
 }
+
+.btn {
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    left: 30px;
+}
